@@ -7481,6 +7481,11 @@ mkdirp@~0.5.1:
   dependencies:
     minimist "^1.2.6"
 
+module-name@0.0.1-security:
+  version "0.0.1-security"
+  resolved "https://registry.yarnpkg.com/module-name/-/module-name-0.0.1-security.tgz#69e165948f0420f9d388df6c8dc59d47250b45ff"
+  integrity sha512-yuuTU5MhBuxtUPjTIqBz3AR2z3yrBr7yjPvpHbKLu5N3iWBRji2RnNAysonzft26mMUO+vA2tB3uiAqbZ6jXAQ==
+
 moment@^2.10.2:
   version "2.29.3"
   resolved "https://registry.yarnpkg.com/moment/-/moment-2.29.3.tgz#edd47411c322413999f7a5940d526de183c031f3"
